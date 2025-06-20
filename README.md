@@ -1,1 +1,1 @@
-# discover
+# Discover.com/activate
