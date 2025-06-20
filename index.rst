@@ -11,7 +11,7 @@ Learn how to activate your Discover credit card online using discover.com/activa
 
 .. image:: activatenow.png
    :alt: Discover.com/activate
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://fm.ci?aHR0cHM6Ly9kaXNjb3ZlcmNhcmQtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pbw==
 
 ========================================
 Step by Step to Activate Discover Credit Card Online at discover.com/activate
